@@ -1,0 +1,32 @@
+@charset "utf-8";
+@import url("reset.css");
+
+/* CSS Document */
+
+@import url(normal-layout.css) screen and (min-width: 801px);
+@import url(mobile-layout.css) screen and (max-width: 800px);
+
+/*
+@media all and (min-width: 801px) {
+	@import url(style.css);
+}
+
+@media all and (max-width: 800px) {
+	@import url(mobile-layout.css);
+}
+*/
+
+/*
+@media all and (min-width: 800px) and (max-width: 1280px) {
+       
+}
+
+@media all and (min-width: 320px) and (max-width: 480px) {
+     
+}
+*/
+
+/*
+@import url(normal-layout.css) screen and (min-width: 641px);
+@import url(mobile-layout.css) screen and (max-width: 640px);
+*/
